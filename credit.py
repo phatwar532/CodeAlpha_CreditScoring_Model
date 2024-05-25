@@ -69,3 +69,9 @@ plt.xlabel('Observations')
 plt.ylabel('Creditworthy')
 plt.legend()
 plt.show()
+
+# show us the dataset 
+data
+
+# show us the scaled down dataset
+X_train_scaled
